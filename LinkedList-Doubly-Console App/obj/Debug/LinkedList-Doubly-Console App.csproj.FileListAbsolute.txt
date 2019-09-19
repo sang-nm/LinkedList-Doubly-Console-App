@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\LinkedList-Doubly-Console App\LinkedList-Doubly-Console App\bin\Debug\LinkedList-Doubly-Console App.exe.config
+e:\documents\visual studio 2015\Projects\LinkedList-Doubly-Console App\LinkedList-Doubly-Console App\bin\Debug\LinkedList-Doubly-Console App.exe
+e:\documents\visual studio 2015\Projects\LinkedList-Doubly-Console App\LinkedList-Doubly-Console App\bin\Debug\LinkedList-Doubly-Console App.pdb
+e:\documents\visual studio 2015\Projects\LinkedList-Doubly-Console App\LinkedList-Doubly-Console App\obj\Debug\LinkedList-Doubly-Console App.exe
+e:\documents\visual studio 2015\Projects\LinkedList-Doubly-Console App\LinkedList-Doubly-Console App\obj\Debug\LinkedList-Doubly-Console App.pdb
+e:\documents\visual studio 2015\Projects\LinkedList-Doubly-Console App\LinkedList-Doubly-Console App\obj\Debug\LinkedList-Doubly-Console App.csprojResolveAssemblyReference.cache
